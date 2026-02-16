@@ -1,0 +1,23 @@
+{
+  "ip_address": "10.57.45.50",
+  "starting_index": 84,
+  "chip_type_list": [
+
+"FD60",
+"FD61",
+"FD62",
+"FD63",
+"FD64",
+"FD3A",
+"FD3B",
+"FD3C",
+"FD3D",
+"FD3E",
+"FD3F",
+"FE07",
+"FE08",
+"FC07"],
+  
+  "burn_exe_path": "C:/Program Files (x86)/Cisco Systems/BurnSccSetup/BurnScc.exe",
+  "ct_search_root": "D:/SQUAD/_SQUAD_Output_File_"
+}
